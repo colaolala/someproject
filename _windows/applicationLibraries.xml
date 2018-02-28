@@ -1,0 +1,13 @@
+<application>
+  <component name="libraryTable">
+    <library name="apache-tomcat-9.0">
+      <CLASSES>
+        <root url="file://$USER_HOME$/IdeaProjects/WebTest/localtest/apache-tomcat-9.0.5" />
+        <root url="file://$USER_HOME$/IdeaProjects/WebTest/localtest/apache-tomcat-9.0.5/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/IdeaProjects/WebTest/localtest/apache-tomcat-9.0.5/bin" recursive="false" />
+    </library>
+  </component>
+</application>
